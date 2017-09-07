@@ -1,0 +1,16 @@
+[
+  {
+    "title":"The Hangover",
+    "year": "2012",
+    "imageUrl":"http://google.com",
+    "synopsis": "Party",
+    "genre":"comedy"
+  },
+  {
+    "title":"Fast & Furious",
+    "year": "2016",
+    "imageUrl":"http://google.com",
+    "synopsis": "Racing",
+    "genre":"Action"
+  }
+]
